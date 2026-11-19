@@ -3,7 +3,7 @@
 <h1 align="center">DS Digital Shield</h1>
 <p align="center">바이러스 검사 · 실시간 보호 관리 · 파밍 점검 · PC 정리 · PC 최적화를 한 번에 하는 무료 Windows PC 보안 프로그램</p>
 
-<p align="center"><a href="https://dbstjd9061.github.io/digital-shield/"><b>홈페이지</b></a> · <a href="https://github.com/dbstjd9061/digital-shield/releases/latest/download/DigitalShield_Setup.exe"><b>무료 다운로드</b></a></p>
+<p align="center"><a href="https://dbstjd9061.github.io/digital-shield/"><b>홈페이지</b></a> · <a href="https://dbstjd9061.github.io/digital-shield/download/DigitalShield_Setup.exe"><b>무료 다운로드</b></a></p>
 
 ![DS Digital Shield 홈 화면](assets/shot-home.webp)
 
@@ -15,7 +15,7 @@
 - **생활 보안:** USB 자동 검사, 위협 차단 알림, 오른쪽 클릭 검사, 알림 영역 실행
 
 ## 설치
-1. [DigitalShield_Setup.exe](https://github.com/dbstjd9061/digital-shield/releases/latest/download/DigitalShield_Setup.exe) 내려받기
+1. [DigitalShield_Setup.exe](https://dbstjd9061.github.io/digital-shield/download/DigitalShield_Setup.exe) 내려받기
 2. 실행 → [설치]
 3. "Windows의 PC 보호" 창이 뜨면 [추가 정보] → [실행]
 
